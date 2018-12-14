@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20070711.121325.01.19.570.28.png</filename>
+	<path>G:\imglabel\windows_v1.6.0\data\train\20070711.121325.01.19.570.28.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>460</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frontgust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>163</ymin>
+			<xmax>170</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

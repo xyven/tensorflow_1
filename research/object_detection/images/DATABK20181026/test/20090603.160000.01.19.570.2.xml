@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20090603.160000.01.19.570.2.png</filename>
+	<path>D:\2018\project\TransPup19ToPNG\test\20090603.160000.01.19.570.2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>460</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frontgust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>266</ymin>
+			<xmax>291</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
